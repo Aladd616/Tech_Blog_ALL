@@ -1,0 +1,32 @@
+[
+  {
+    "comment_post": "a comment for me test of my tech blog app",
+    "user_id": 2,
+    "blogPost_id": 3
+  },
+  {
+    "description": "The second test comment for my tech blog app",
+    "user_id": 1,
+    "blogPost_id": 2
+  },
+  {
+    "description": "The third test post comment for my test fo my tech blog app i will be doing 2 for each to test how the page displays multiple comments",
+    "user_id": 3,
+    "blogPost_id": 1
+  },
+  {
+    "blogPost": "first of the second set of comments",
+    "user_id": 3,
+    "blogPost_id": 3
+  },
+  {
+    "description": "I am trying to vary the length in order to test the dsplay of the comments im nto sure how that will work but we will see",
+    "user_id": 2,
+    "blogPost_id": 2
+  },
+  {
+    "description": "I actually realized that i am not varying the length on purpose it just kinda happened",
+    "user_id": 1,
+    "blogPost_id": 1
+  }
+]

@@ -11,22 +11,19 @@ Blog.init(
       primaryKey: true,
       autoIncrement: true,
     },
-    poster_name: {
-      type: DataTypes.STRING,
-      allowNull: false,
-    },
     title: {
       type: DataTypes.STRING,
+    },
+    blogPost: {
+      type: DataTypes.TEXT,
+      allowNull: false,
     },
     date_created: {
       type: DataTypes.DATE,
       allowNull: false,
       defaultValue: DataTypes.NOW,
     },
-    blogPost: {
-      type: DataTypes.TEXT,
-      allowNull: false,
-    },
+
     user_id: {
       type: DataTypes.INTEGER,
       references: {

@@ -1,0 +1,20 @@
+[
+  {
+    "title": "test post1",
+    "blogPost": "The very first test post for my tech blog app.",
+    "user_id": 2,
+    "comment_id": 3
+  },
+  {
+    "name": "TEST POST2",
+    "description": "The second test post for my tech blog application im not sure if I am gonna keep these",
+    "user_id": 1,
+    "comment_id": 2
+  },
+  {
+    "name": "TesT pOSt 3",
+    "description": "The third test post for my tech blog app i should probably include something more relivent than just what is happening",
+    "user_id": 3,
+    "comment_id": 1
+  }
+]
