@@ -3,7 +3,7 @@
 ## Links
 
 [Repository](https://github.com/Aladd616/Tech_Blog_ALL)
-[Deployment]
+[Deployment](https://fathomless-lake-74603.herokuapp.com/)
 
 ## Description
 
@@ -25,7 +25,7 @@ Heroku
 
 ## Instillation
 
-The user must have Node.js and MySQL installed on their computer in order for the application to run. Clone the application from GitHub. Then run "npm install" from the root directory to install the dependencies. The user must create the database from the scheme provided, using workbench or directly using the command line. Next, run npm seeds/index.js in order to seed the database with the provided data through the node terminal started from the root directory. From this same terminal start the server using "npm start." Following this navigate to http://localhost:3001 in order to view and navigate the complete application.
+The user must have Node.js and MySQL installed on their computer in order for the application to run. Clone the application from GitHub. Then run "npm install" from the root directory to install the dependencies. The user must create the database from the scheme provided, using workbench or directly using the command line. Next, run npm seeds/index.js in order to seed the database with the provided data through the node terminal started from the root directory. From this same terminal start the server using "npm start." Following this navigate to localhost:3001 in order to view and navigate the complete application.
 
 ## License
 
