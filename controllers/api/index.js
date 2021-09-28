@@ -8,8 +8,5 @@ router.use("/users", userRoutes);
 router.use("/blog", blogRoutes);
 router.use("/comments", commentRoutes);
 
-apiRoutes.use((req, res) => {
-  res.status(404).end();
-});
 
 module.exports = router;
